@@ -37,6 +37,6 @@ This project is a **3-layer data pipeline and interactive dashboard** for tracki
 ---
 
 ## Files
-- `Anvi_finance_tracker_cleaning.py`: Python script for cleaning and structuring data
+- `Anvi_Finance_Tracker_Cleaning.ipynb`: Python script for cleaning and structuring data
 - `cleaned_expenses.csv`: Final dataset for Tableau
-- `dashboard-preview.png`: Screenshot of final dashboard
+- `Dashboard Preview.png`: Screenshot of final dashboard
