@@ -31,8 +31,7 @@ This project is a **3-layer data pipeline and interactive dashboard** for tracki
 ---
 
 ## Preview
-![Dashboard Preview](<img width="1267" height="846" alt="Screenshot 2025-07-25 165317" src="https://github.com/user-attachments/assets/50445d87-35d0-4682-870a-1ba219cfa0db" />
-)
+![Dashboard Preview](<img width="1267" height="846" alt="Screenshot 2025-07-25 165317" src="https://github.com/user-attachments/assets/50445d87-35d0-4682-870a-1ba219cfa0db" />)
 
 ---
 
